@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deep-Learning-Test/static/css/main.e6c13ad2.css",
+    "main.js": "/Deep-Learning-Test/static/js/main.e492b0d4.js",
+    "index.html": "/Deep-Learning-Test/index.html",
+    "main.e6c13ad2.css.map": "/Deep-Learning-Test/static/css/main.e6c13ad2.css.map",
+    "main.e492b0d4.js.map": "/Deep-Learning-Test/static/js/main.e492b0d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e492b0d4.js"
+  ]
+}
